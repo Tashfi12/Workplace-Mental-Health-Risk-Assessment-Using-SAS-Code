@@ -1,6 +1,9 @@
 # Workplace-Mental-Health-Risk-Assessment-Using-SAS-Code
+
+📊 Dataset: 10,000 employee records | 14 workplace mental health attributes | Demographic, psychological, lifestyle, and productivity variables.
+
 Assignment 1: Workplace Mental Health Risk Assessment – Data Exploration &amp; Data Warehouse Analysis.
-Analyzed a workplace mental health dataset of 10,000 records using SAS to perform exploratory data analysis, descriptive statistics, correlation analysis, data quality assessment, and data warehouse evaluation. Investigated mental health risk factors, productivity trends, and data management strategies for scalable analytics.
+Analyzed a workplace mental health dataset using SAS to perform exploratory data analysis, descriptive statistics, correlation analysis, data quality assessment, and data warehouse evaluation. The project investigated relationships between stress, anxiety, depression, productivity, social support, and mental health risk categories to support scalable organizational analytics.
 
 Assignment 2: Workplace Mental Health Risk Assessment – Advanced Analytics & Hypothesis Testing
-Developed an end-to-end SAS analytics framework for workplace mental health risk assessment, including data preprocessing, feature engineering, statistical hypothesis testing, logistic regression, ANOVA, correlation analysis, and predictive insights. Identified Total Psychological Load as a key factor influencing employee productivity and mental health risk
+Developed an end-to-end SAS analytics framework including data preprocessing, feature engineering, hypothesis testing, ANOVA, logistic regression, and correlation analysis. The project identified Total Psychological Load as a major factor influencing employee productivity and mental health risk in workplace environments.
